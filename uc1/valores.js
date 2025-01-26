@@ -1,6 +1,6 @@
-let valor1 = 3
-let valor2 = 4
-let valor3 = 2
+let valor1 = 10
+let valor2 = 6
+let valor3 = 8
 // verificar qual é o maior valor ou se todos são iguais
 if (valor1==valor2){
     if (valor2==valor3){
@@ -18,7 +18,7 @@ if (valor2 > valor1) {
 }
 if (valor3 > valor1) {
     if (valor3 > valor2) {
-        console.log("Maior valor é: "+valor3)    
+        console.log("Maior valor é: " +valor3)    
     }  
 }
 
